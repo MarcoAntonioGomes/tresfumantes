@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1512849315 source:/home/harley/tresfumantes/main.cpp
+	<iostream>
+	<mutex>
+	<condition_variable>
+	<thread>
+	"Tabaqueiro.h"
+	"Fumante.h"
+	"Mesa.h"
+
+1512849176 /home/harley/tresfumantes/Tabaqueiro.h
+	<condition_variable>
+	<mutex>
+	<unistd.h>
+
+1512849470 /home/harley/tresfumantes/Fumante.h
+	<condition_variable>
+	<mutex>
+
+1512849193 /home/harley/tresfumantes/Mesa.h
+	<mutex>
+	<thread>
+	"Tabaqueiro.h"
+
